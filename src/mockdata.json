@@ -1,0 +1,604 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "city": "guntur",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 90,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 2,
+            "name": "Emily Johnson",
+            "city": "guntur",
+            "marks": {
+                "math": 92,
+                "science": 88,
+                "english": 95,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 3,
+            "name": "Michael Williams",
+            "city": "guntur",
+            "marks": {
+                "math": 78,
+                "science": 85,
+                "english": 80,
+                "telugu": 75,
+                "social": 82
+            }
+        },
+        {
+            "id": 4,
+            "name": "Sophia Brown",
+            "city": "guntur",
+            "marks": {
+                "math": 90,
+                "science": 92,
+                "english": 87,
+                "telugu": 88,
+                "social": 92
+            }
+        },
+        {
+            "id": 5,
+            "name": "Daniel Taylor",
+            "city": "guntur",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 82,
+                "telugu": 80,
+                "social": 85
+            }
+        },
+        {
+            "id": 6,
+            "name": "Olivia Martinez",
+            "city": "krishna",
+            "marks": {
+                "math": 75,
+                "science": 80,
+                "english": 85,
+                "telugu": 90,
+                "social": 78
+            }
+        },
+        {
+            "id": 7,
+            "name": "William Johnson",
+            "city": "krishna",
+            "marks": {
+                "math": 88,
+                "science": 85,
+                "english": 90,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 8,
+            "name": "Ava Rodriguez",
+            "city": "krishna",
+            "marks": {
+                "math": 92,
+                "science": 90,
+                "english": 88,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 9,
+            "name": "James Wilson",
+            "city": "krishna",
+            "marks": {
+                "math": 80,
+                "science": 75,
+                "english": 82,
+                "telugu": 78,
+                "social": 85
+            }
+        },
+        {
+            "id": 10,
+            "name": "Isabella Garcia",
+            "city": "krishna",
+            "marks": {
+                "math": 85,
+                "science": 92,
+                "english": 88,
+                "telugu": 90,
+                "social": 82
+            }
+        },
+        {
+            "id": 11,
+            "name": "David Rodriguez",
+            "city": "kadapa",
+            "marks": {
+                "math": 78,
+                "science": 85,
+                "english": 90,
+                "telugu": 88,
+                "social": 85
+            }
+        },
+        {
+            "id": 12,
+            "name": "Sophia Hernandez",
+            "city": "kadapa",
+            "marks": {
+                "math": 90,
+                "science": 92,
+                "english": 87,
+                "telugu": 85,
+                "social": 92
+            }
+        },
+        {
+            "id": 13,
+            "name": "Alexander Martinez",
+            "city": "kadapa",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 82,
+                "telugu": 90,
+                "social": 78
+            }
+        },
+        {
+            "id": 14,
+            "name": "Mia Johnson",
+            "city": "kadapa",
+            "marks": {
+                "math": 75,
+                "science": 80,
+                "english": 85,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 15,
+            "name": "Ethan Rodriguez",
+            "city": "kadapa",
+            "marks": {
+                "math": 88,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 16,
+            "name": "Charlotte Lopez",
+            "city": "kadapa",
+            "marks": {
+                "math": 92,
+                "science": 90,
+                "english": 88,
+                "telugu": 78,
+                "social": 82
+            }
+        },
+        {
+            "id": 17,
+            "name": "Noah Gonzalez",
+            "city": "kadapa",
+            "marks": {
+                "math": 80,
+                "science": 75,
+                "english": 82,
+                "telugu": 85,
+                "social": 88
+            }
+        },
+        {
+            "id": 18,
+            "name": "Amelia Perez",
+            "city": "kadapa",
+            "marks": {
+                "math": 85,
+                "science": 92,
+                "english": 88,
+                "telugu": 90,
+                "social": 82
+            }
+        },
+        {
+            "id": 19,
+            "name": "Benjamin Sanchez",
+            "city": "kadapa",
+            "marks": {
+                "math": 78,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 20,
+            "name": "Evelyn Torres",
+            "city": "kadapa",
+            "marks": {
+                "math": 90,
+                "science": 92,
+                "english": 87,
+                "telugu": 90,
+                "social": 92
+            }
+        },
+        {
+            "id": 21,
+            "name": "William Smith",
+            "city": "Kurnool",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 82,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 22,
+            "name": "Victoria Hernandez",
+            "city": "Kurnool",
+            "marks": {
+                "math": 75,
+                "science": 80,
+                "english": 85,
+                "telugu": 90,
+                "social": 78
+            }
+        },
+        {
+            "id": 23,
+            "name": "Liam Wilson",
+            "city": "Kurnool",
+            "marks": {
+                "math": 88,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 24,
+            "name": "Gabriella Garcia",
+            "city": "Kurnool",
+            "marks": {
+                "math": 92,
+                "science": 90,
+                "english": 88,
+                "telugu": 78,
+                "social": 82
+            }
+        },
+        {
+            "id": 25,
+            "name": "Christopher Rodriguez",
+            "city": "Kurnool",
+            "marks": {
+                "math": 80,
+                "science": 75,
+                "english": 82,
+                "telugu": 85,
+                "social": 88
+            }
+        },
+        {
+            "id": 26,
+            "name": "Madison Lopez",
+            "city": "Kurnool",
+            "marks": {
+                "math": 85,
+                "science": 92,
+                "english": 88,
+                "telugu": 90,
+                "social": 82
+            }
+        },
+        {
+            "id": 27,
+            "name": "Lucas Perez",
+            "city": "Kurnool",
+            "marks": {
+                "math": 78,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 28,
+            "name": "Grace Sanchez",
+            "city": "Kurnool",
+            "marks": {
+                "math": 90,
+                "science": 92,
+                "english": 87,
+                "telugu": 90,
+                "social": 92
+            }
+        },
+        {
+            "id": 29,
+            "name": "Jackson Torres",
+            "city": "Kurnool",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 82,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 30,
+            "name": "Avery Smith",
+            "city": "Kurnool",
+            "marks": {
+                "math": 75,
+                "science": 80,
+                "english": 85,
+                "telugu": 90,
+                "social": 78
+            }
+        },
+        {
+            "id": 31,
+            "name": "Scarlett Hernandez",
+            "city": "Kakinada",
+            "marks": {
+                "math": 88,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 32,
+            "name": "Logan Wilson",
+            "city": "Kakinada",
+            "marks": {
+                "math": 92,
+                "science": 90,
+                "english": 88,
+                "telugu": 78,
+                "social": 82
+            }
+        },
+        {
+            "id": 33,
+            "name": "Chloe Garcia",
+            "city": "Kakinada",
+            "marks": {
+                "math": 80,
+                "science": 75,
+                "english": 82,
+                "telugu": 85,
+                "social": 88
+            }
+        },
+        {
+            "id": 34,
+            "name": "Ryan Hernandez",
+            "city": "Kakinada",
+            "marks": {
+                "math": 85,
+                "science": 92,
+                "english": 88,
+                "telugu": 90,
+                "social": 82
+            }
+        },
+        {
+            "id": 35,
+            "name": "Emma Perez",
+            "city": "Kakinada",
+            "marks": {
+                "math": 78,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 36,
+            "name": "Nathan Sanchez",
+            "city": "Kakinada",
+            "marks": {
+                "math": 90,
+                "science": 92,
+                "english": 87,
+                "telugu": 90,
+                "social": 92
+            }
+        },
+        {
+            "id": 37,
+            "name": "Sarah Torres",
+            "city": "Kakinada",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 82,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 38,
+            "name": "Jackson Smith",
+            "city": "Kakinada",
+            "marks": {
+                "math": 75,
+                "science": 80,
+                "english": 85,
+                "telugu": 90,
+                "social": 78
+            }
+        },
+        {
+            "id": 39,
+            "name": "Aria Hernandez",
+            "city": "Kakinada",
+            "marks": {
+                "math": 88,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 40,
+            "name": "Elijah Wilson",
+            "city": "Kakinada",
+            "marks": {
+                "math": 92,
+                "science": 90,
+                "english": 88,
+                "telugu": 78,
+                "social": 82
+            }
+        },
+        {
+            "id": 41,
+            "name": "Zoe Garcia",
+            "city": "Bapatla",
+            "marks": {
+                "math": 80,
+                "science": 75,
+                "english": 82,
+                "telugu": 85,
+                "social": 88
+            }
+        },
+        {
+            "id": 42,
+            "name": "Penelope Hernandez",
+            "city": "Bapatla",
+            "marks": {
+                "math": 85,
+                "science": 92,
+                "english": 88,
+                "telugu": 90,
+                "social": 82
+            }
+        },
+        {
+            "id": 43,
+            "name": "Carter Perez",
+            "city": "Bapatla",
+            "marks": {
+                "math": 78,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 44,
+            "name": "Madelyn Sanchez",
+            "city": "Bapatla",
+            "marks": {
+                "math": 90,
+                "science": 92,
+                "english": 87,
+                "telugu": 90,
+                "social": 92
+            }
+        },
+        {
+            "id": 45,
+            "name": "Grayson Torres",
+            "city": "Bapatla",
+            "marks": {
+                "math": 85,
+                "science": 78,
+                "english": 82,
+                "telugu": 82,
+                "social": 88
+            }
+        },
+        {
+            "id": 46,
+            "name": "Luke Smith",
+            "city": "Nellore",
+            "marks": {
+                "math": 75,
+                "science": 80,
+                "english": 85,
+                "telugu": 90,
+                "social": 78
+            }
+        },
+        {
+            "id": 47,
+            "name": "Riley Hernandez",
+            "city": "Nellore",
+            "marks": {
+                "math": 88,
+                "science": 85,
+                "english": 90,
+                "telugu": 85,
+                "social": 90
+            }
+        },
+        {
+            "id": 48,
+            "name": "Landon Wilson",
+            "city": "Nellore",
+            "marks": {
+                "math": 92,
+                "science": 90,
+                "english": 88,
+                "telugu": 78,
+                "social": 82
+            }
+        },
+        {
+            "id": 49,
+            "name": "Hannah Garcia",
+            "city": "Nellore",
+            "marks": {
+                "math": 80,
+                "science": 75,
+                "english": 82,
+                "telugu": 85,
+                "social": 88
+            }
+        },
+        {
+            "id": 50,
+            "name": "Aaron Hernandez",
+            "city": "Nellore",
+            "marks": {
+                "math": 85,
+                "science": 92,
+                "english": 88,
+                "telugu": 90,
+                "social": 82
+            }
+        }
+    ]
+}
